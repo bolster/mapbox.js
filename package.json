@@ -10,7 +10,7 @@
   },
   "dependencies": {
       "reqwest": "https://github.com/ded/reqwest/tarball/a845dfd8322e5e9c918304e9e2c2ee9cb6c2b3c9",
-      "modestmaps": "https://github.com/bolster/modestmaps-js.git", //Need to add a version
+      "modestmaps": "https://github.com/bolster/modestmaps-js/tarball/2590962d274b2348da47e25cdf1379c821967a52",
       "wax": "7.0.0dev13",
       "bean": "0.4.11-1",
       "mustache": "0.4.0",
